@@ -14,7 +14,7 @@ Each guide is written with simplicity in mind, focusing on step-by-step instruct
 
 ## Contents
 
-1. **[EC2 User Management](guides/create_ec2_user.md)**: Learn how to create and manage users on an EC2 instance and set up SSH access.
+1. **[Create and Manage EC2 Users with SSH Access](https://github.com/LilDarkin/Guides/blob/main/Creating%20and%20Managing%20EC2%20Users%20with%20SSH%20Access.md)**: Learn how to create and manage users on an EC2 instance and set up SSH access.
 
 ## Getting Started
 
